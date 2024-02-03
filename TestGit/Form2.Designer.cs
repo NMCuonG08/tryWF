@@ -60,7 +60,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(44, 16);
             this.label2.TabIndex = 2;
-            this.label2.Text = "1 2 3 4";
+            this.label2.Text = "1 2 3 4 5 6 7 8 9 10";
             // 
             // Form2
             // 
