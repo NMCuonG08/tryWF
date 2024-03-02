@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace TestGit
 {
-    public partial class Form2 : Form
+    public partial class UC : UserControl
     {
-        public Form2()
+        public UC()
         {
             InitializeComponent();
         }

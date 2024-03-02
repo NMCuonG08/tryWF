@@ -16,5 +16,16 @@ namespace TestGit
         {
             InitializeComponent();
         }
+
+        void show()
+        {
+            MessageBox.Show("hihi");
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form3 form3 = new Form3();
+            form3.ShowDialog();
+        }
     }
 }
