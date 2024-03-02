@@ -16,5 +16,16 @@ namespace TestGit
         {
             InitializeComponent();
         }
+
+
+        void hi()
+        {
+
+        }
+
+        private void UC_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
