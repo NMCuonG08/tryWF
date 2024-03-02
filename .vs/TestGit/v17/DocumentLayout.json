@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\tryWF\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{20B54B3B-24B1-487A-B763-939413FC3B92}|TestGit\\TestGit.csproj|c:\\users\\asus\\desktop\\trywf\\testgit\\uc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B54B3B-24B1-487A-B763-939413FC3B92}|TestGit\\TestGit.csproj|solutionrelative:testgit\\uc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{20B54B3B-24B1-487A-B763-939413FC3B92}|TestGit\\TestGit.csproj|c:\\users\\asus\\desktop\\trywf\\testgit\\uc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{20B54B3B-24B1-487A-B763-939413FC3B92}|TestGit\\TestGit.csproj|solutionrelative:testgit\\uc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20B54B3B-24B1-487A-B763-939413FC3B92}|TestGit\\TestGit.csproj|c:\\users\\asus\\desktop\\trywf\\testgit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{20B54B3B-24B1-487A-B763-939413FC3B92}|TestGit\\TestGit.csproj|C:\\Users\\ASUS\\Desktop\\tryWF\\testgit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20B54B3B-24B1-487A-B763-939413FC3B92}|TestGit\\TestGit.csproj|solutionrelative:testgit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -55,6 +59,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UC.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\tryWF\\TestGit\\UC.cs",
+              "RelativeDocumentMoniker": "TestGit\\UC.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\tryWF\\TestGit\\UC.cs",
+              "RelativeToolTip": "TestGit\\UC.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAD4vxYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T15:38:01.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "UC.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\tryWF\\TestGit\\UC.cs",
               "RelativeDocumentMoniker": "TestGit\\UC.cs",
@@ -66,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\tryWF\\TestGit\\Form1.cs",
               "RelativeDocumentMoniker": "TestGit\\Form1.cs",
@@ -74,32 +91,29 @@
               "RelativeToolTip": "TestGit\\Form1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T14:39:41.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-02T14:39:41.147Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Form3.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\tryWF\\TestGit\\Form3.cs",
               "RelativeDocumentMoniker": "TestGit\\Form3.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\tryWF\\TestGit\\Form3.cs [Design]",
               "RelativeToolTip": "TestGit\\Form3.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-05T11:29:54.042Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-02-05T11:29:54.042Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\tryWF\\TestGit\\Form1.cs",
               "RelativeDocumentMoniker": "TestGit\\Form1.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\tryWF\\TestGit\\Form1.cs [Design]",
               "RelativeToolTip": "TestGit\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-05T11:29:54.218Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-02-05T11:29:54.218Z"
             }
           ]
         }
